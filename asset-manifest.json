@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/googlecalendarhours/static/css/main.9a941123.chunk.css",
+    "main.js": "/googlecalendarhours/static/js/main.339635d5.chunk.js",
+    "main.js.map": "/googlecalendarhours/static/js/main.339635d5.chunk.js.map",
+    "runtime-main.js": "/googlecalendarhours/static/js/runtime-main.c576afa4.js",
+    "runtime-main.js.map": "/googlecalendarhours/static/js/runtime-main.c576afa4.js.map",
+    "vendors~main.css": "/googlecalendarhours/static/css/vendors~main.77e7414c.chunk.css",
+    "vendors~main.js": "/googlecalendarhours/static/js/vendors~main.1373a2fb.chunk.js",
+    "vendors~main.js.map": "/googlecalendarhours/static/js/vendors~main.1373a2fb.chunk.js.map",
+    "index.html": "/googlecalendarhours/index.html",
+    "precache-manifest.baa7fcfbef7ed2057a4a6867b9a42d95.js": "/googlecalendarhours/precache-manifest.baa7fcfbef7ed2057a4a6867b9a42d95.js",
+    "service-worker.js": "/googlecalendarhours/service-worker.js",
+    "static/css/main.9a941123.chunk.css.map": "/googlecalendarhours/static/css/main.9a941123.chunk.css.map",
+    "static/css/vendors~main.77e7414c.chunk.css.map": "/googlecalendarhours/static/css/vendors~main.77e7414c.chunk.css.map",
+    "static/js/vendors~main.1373a2fb.chunk.js.LICENSE.txt": "/googlecalendarhours/static/js/vendors~main.1373a2fb.chunk.js.LICENSE.txt",
+    "static/media/google_auth.png": "/googlecalendarhours/static/media/google_auth.75a7cb04.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c576afa4.js",
+    "static/css/vendors~main.77e7414c.chunk.css",
+    "static/js/vendors~main.1373a2fb.chunk.js",
+    "static/css/main.9a941123.chunk.css",
+    "static/js/main.339635d5.chunk.js"
+  ]
+}

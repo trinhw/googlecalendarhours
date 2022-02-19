@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d6b07b66850326e576bd43389d44706",
+    "revision": "c79e691104bbbfea3f87666bac57780f",
     "url": "/googlecalendarhours/index.html"
   },
   {
-    "revision": "33011967d6d152f0193e",
+    "revision": "9e2f6ee74115ed914f59",
     "url": "/googlecalendarhours/static/css/main.9a941123.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/googlecalendarhours/static/css/vendors~main.77e7414c.chunk.css"
   },
   {
-    "revision": "33011967d6d152f0193e",
-    "url": "/googlecalendarhours/static/js/main.9a8797af.chunk.js"
+    "revision": "9e2f6ee74115ed914f59",
+    "url": "/googlecalendarhours/static/js/main.77cb2c67.chunk.js"
   },
   {
     "revision": "70aae65ec39cab64c944",

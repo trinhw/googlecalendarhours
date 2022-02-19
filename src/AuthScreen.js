@@ -3,7 +3,7 @@ import { encode } from 'qss';
 
 import logo from './google_auth.png';
 
-const googleClientId = '502172359025.apps.googleusercontent.com';
+const googleClientId = '137650514428-7h8ju8o7mfel8a739nvr5ahciga2erev.apps.googleusercontent.com';
 const googleScope =
   'https://www.googleapis.com/auth/calendar.readonly https://www.googleapis.com/auth/calendar.events.readonly';
 
@@ -11,7 +11,7 @@ const App = () => {
   const getGoogleAuthUrl = () => {
     const params = encode({
       client_id: googleClientId,
-      redirect_uri: window.location.origin,
+      redirect_uri: 'https://trinhw.github.io/googlecalendarhours',
       scope: googleScope,
       response_type: 'token',
     });
